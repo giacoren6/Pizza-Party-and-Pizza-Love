@@ -25,7 +25,6 @@ Welcome! [Pizza Party](https://Pizza-party-giacoren629919.codeanyapp.com)
 - Pizza Style and Party is a section to help the user to choose and give some idea's on the programm.
 - This section will help the user to choose the right choice and consider to sign up.
 
-<img width="1437" alt="Screenshot 2023-10-10 at 14 22 31" src="https://github.com/Code-Institute-Solutions/readme-template/assets/142323106/e1ee359c-7008-4797-bed1-2b8616c183dc">
 
 - __Meetup Times section__
 
