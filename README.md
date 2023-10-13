@@ -69,7 +69,7 @@ desktop sizes min 992 px
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpizza-party-giacoren629919.codeanyapp.com%2FPizza%2520Party%2F)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiacoren6.github.io%2Fpizza-party-and-pizza-love%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fpizza-party-giacoren629919.codeanyapp.com%2FPizza%2520Party%2F)
 
