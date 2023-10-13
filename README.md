@@ -5,7 +5,7 @@ Pizza party is a site about loving food talk about a sharing opinion's about piz
 
 Welcome! [Pizza Party](https://Pizza-party-giacoren629919.codeanyapp.com)
 
-!Responsice Mockup<img width="1445" alt="Screenshot 2023-10-10 at 13 09 53" src="https://github.com/giacoren6/pp/assets/142323106/8dbe2b7c-5711-4341-8803-0dbe6d33e1dc">
+<img width="1445" alt="Screenshot 2023-10-10 at 13 09 53" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/071916ef-b3b1-4b5b-abb3-3433b2cebf33">
 
 # Features
 - __Navigation Bar__
