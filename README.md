@@ -75,5 +75,5 @@ desktop sizes min 992 px
 ## Deployment
 
 -This site is deployed 
--Live link here 
+-Live link here (https://giacoren6.github.io/pizza-party-and-pizza-love/)
 
