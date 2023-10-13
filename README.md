@@ -33,7 +33,7 @@ Welcome! [Pizza Party](https://Pizza-party-giacoren629919.codeanyapp.com)
   - This section will allow the user to see exactly when the meetups will happen, where they will be located with time and maps and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
-<img width="1469" alt="Screenshot 2023-10-10 at 14 27 21" src="https://github.com/giacoren6/pp/assets/142323106/8bc1f45d-99c3-401e-a63f-992950cdf589">
+<img width="1469" alt="Screenshot 2023-10-10 at 14 27 21" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/d41d39d5-0bb3-4622-9c7c-d148c4f14f24">
 
 - __The Footer of social media__ 
 
