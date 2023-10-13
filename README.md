@@ -78,12 +78,13 @@ desktop sizes min 992 px
 Live link here(https://giacoren6.github.io/pizza-party-and-pizza-love/)
 
 ## Credits
-- I've took inspiration from love running project by code institute.
+- I've took inspiration from love running project by code institute and 
 - the content of image's is from google search.
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ## Media
 
 - The photos used on the home and sign up page are from other Open Source site
 - The images used for the gallery page were taken from  other open source site
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+
 
