@@ -12,7 +12,7 @@ Welcome! [Pizza Party](https://Pizza-party-giacoren629919.codeanyapp.com)
 - All three pages are responsive with navigation, the top bar include HOME page, GALLERY and SIGN UP page. 
 - This section is made to let have a easy navigation by the user page to page and device to device without having to revert back to the previous page via the back button.
 
-Nav Bar<img width="1458" alt="Screenshot 2023-10-10 at 13 00 10" src="https://github.com/giacoren6/pp/assets/142323106/a1986cdb-2a50-40aa-958c-4fad75605344">
+<img width="1458" alt="Screenshot 2023-10-10 at 13 00 10" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/e4d25521-095d-4099-aa52-e3e9a856696b">
 
 - __The main page image__
 - The main picture 
