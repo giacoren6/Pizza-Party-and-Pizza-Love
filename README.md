@@ -53,7 +53,7 @@ Welcome! [Pizza Party](https://Pizza-party-giacoren629919.codeanyapp.com)
 
   - This page will allow the user to get signed up to Pizza Party and Pizza Love The user will be able to submit their full name and email address. 
 
-<img width="1470" alt="Screenshot 2023-10-10 at 14 52 15" src="https://github.com/giacoren6/pp/assets/142323106/b63de2c7-d4cb-4d27-8cfa-9dc9eafc3dfa">
+<img width="1470" alt="Screenshot 2023-10-10 at 14 52 15" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/2caa1947-0c0b-4e06-b379-364208477f4a">
 
 ### Features Left to Implement
 
