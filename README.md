@@ -47,7 +47,7 @@ Welcome! [Pizza Party](https://Pizza-party-giacoren629919.codeanyapp.com)
   - The gallery will provide the user to show images to see what kind of meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation. 
 
-  <img width="1470" alt="Screenshot 2023-10-10 at 14 45 22" src="https://github.com/giacoren6/pp/assets/142323106/40139eb0-a811-4a38-99b5-bf37b0a21c76">
+<img width="1470" alt="Screenshot 2023-10-10 at 14 45 22" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/91edaf2c-da3b-4d7e-bde8-0c854d6d9d4a">
 
 - __The Sign Up Page__
 
