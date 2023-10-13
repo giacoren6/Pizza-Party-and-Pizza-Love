@@ -40,7 +40,7 @@ Welcome! [Pizza Party](https://Pizza-party-giacoren629919.codeanyapp.com)
   - The footer section includes links to the relevant social media sites for Pizza Party. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-<img width="1470" alt="Screenshot 2023-10-10 at 14 38 38" src="https://github.com/giacoren6/pp/assets/142323106/02db1b49-945a-4e2c-9834-d53da5862aba">
+<img width="1470" alt="Screenshot 2023-10-10 at 14 38 38" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/bce73f2d-f540-4691-ad64-ffc8e3b18886">
 
 - __Gallery__
 
