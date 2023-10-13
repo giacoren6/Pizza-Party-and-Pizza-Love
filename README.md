@@ -17,9 +17,10 @@ Welcome! [Pizza Party](https://Pizza-party-giacoren629919.codeanyapp.com)
 - __The main page image__
 - The main picture 
   - The main picture includes a picture with a pizza to allow the user to see exactly what type the  site is it and to be applicable to. 
-  - This section introduces the user to Pizza Party site 
+  - This section introduces the user to Pizza Party site
+  - 
+<img width="1458" alt="Screenshot 2023-10-10 at 13 54 15" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/8abf29df-14fe-4d38-80f7-de610bbfaf42">
 
-  <img width="1458" alt="Screenshot 2023-10-10 at 13 54 15" src="https://github.com/giacoren6/pp/assets/142323106/f7b3ea74-ab1a-4128-bd24-fe368558fb80">
 - __Pizza Style and Party__ 
 - Pizza Style and Party is a section to help the user to choose and give some idea's on the programm.
 - This section will help the user to choose the right choice and consider to sign up.
