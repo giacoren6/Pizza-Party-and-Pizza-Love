@@ -66,6 +66,12 @@ Welcome! [Pizza Party](https://giacoren6.github.io/pizza-party-and-pizza-love/in
 - No other feature idea at the moment
 
 ## Testing
+
+ - I tested that this page works in different browsers: Chrome, and  Safari.
+ - I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+ - I confirmed that the navigation, Home, Gallery , sign up, text are all readable and easy to understand.
+ - I have confirmed that the form works: the button work when the form are complete.
+
 The project is tested in a different screen sizes and works normally for mobile,tablet and desktop 
 
 mobile sizes min 576 px,
