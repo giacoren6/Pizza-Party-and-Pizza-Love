@@ -14,41 +14,45 @@ Welcome! [Pizza Party](https://giacoren6.github.io/pizza-party-and-pizza-love/in
 
 <img width="1458" alt="Screenshot 2023-10-10 at 13 00 10" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/e4d25521-095d-4099-aa52-e3e9a856696b">
 
-- __The main page image__
+# The main page image
   
   - The main picture includes, a picture with a pizza to allow the user to see exactly what type of site is, and to be applicable to. 
   - This section introduces the user to Pizza Party site.
   
 <img width="1458" alt="Screenshot 2023-10-10 at 13 54 15" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/8abf29df-14fe-4d38-80f7-de610bbfaf42">
 
-- __Pizza Style and Party__ 
+# Pizza Style and Party
 - Pizza Style and Party is a section to help the user to choose and give some idea's on the programm.
 - This section will help the user to choose the right choice and consider to sign up.
   <img width="1470" alt="Screenshot 2023-11-28 at 17 37 06" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/80b45a2c-d827-4edb-b904-caa3baf0db20">
 
-  
+  # Menu
+- Menu is a section, Which show's to the new users what rapresent the kind of food in the restourants.
+- The menu section have various Pizza's and Drinks to help easly the choice.
+- The menu section is easly readble for everyone.
+<img width="1470" alt="Screenshot 2023-11-28 at 17 40 28" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/d3b2867f-750b-4fe2-97b0-53a09d06c379">
 
-- __Meetup Times and Locations section__
+  # Meetup Times and Locations section
 
   - This sectio will allow the user to see exactly when the meetups will happen, where they will be located with time and maps.
     
 <img width="1469" alt="Screenshot 2023-10-10 at 14 27 21" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/d41d39d5-0bb3-4622-9c7c-d148c4f14f24">
 
-- __The Footer social media__ 
+# The Footer social media
 
   - The footer section includes links to the relevant social media sites for Pizza Party. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 <img width="1470" alt="Screenshot 2023-10-10 at 14 38 38" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/bce73f2d-f540-4691-ad64-ffc8e3b18886">
 
-- __Gallery__
+# Gallery
 
   - The gallery will provide the user to show images to see how look the product. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation. 
 
 <img width="1470" alt="Screenshot 2023-10-10 at 14 45 22" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/91edaf2c-da3b-4d7e-bde8-0c854d6d9d4a">
 
-- __The Sign Up Page__
+# The Sign Up Page
 
   - This page will allow the user to get signed up to Pizza Party and Pizza Love The user will be able to submit their full name and email address. 
 
