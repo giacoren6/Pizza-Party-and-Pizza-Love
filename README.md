@@ -78,6 +78,9 @@ mobile sizes min 576 px,
 tablet sizes min 768 px,
 desktop sizes min 992 px
 
+<img width="717" alt="Screenshot 2023-11-28 at 18 14 43" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/db74fbb4-159e-4095-bf6e-3b185d06e166">
+
+
 ### Validator Testing 
 
 - HTML
