@@ -22,7 +22,7 @@ Welcome! [Pizza Party](https://giacoren6.github.io/pizza-party-and-pizza-love/in
   
 <img width="1458" alt="Screenshot 2023-10-10 at 13 54 15" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/8abf29df-14fe-4d38-80f7-de610bbfaf42">
 
-# Pizza Style and Party
+# About Us (Pizza Style and Party)
 - Pizza Style and Party is a section to help the user to choose and give some idea's on the programm.
 - This section will help the user to choose the right choice and consider to sign up.
   <img width="1470" alt="Screenshot 2023-11-28 at 17 37 06" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/80b45a2c-d827-4edb-b904-caa3baf0db20">
