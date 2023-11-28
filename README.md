@@ -2,6 +2,7 @@
 ## Pizza and Love
 
 Pizza party is a site about loving food, talk about a sharing opinion's about pizza's in london with people and passion about the world of hospitality.
+The site talk about 3 Restourants Located in London Bridge ,Wembley and Westminster 
 
 Welcome! [Pizza Party](https://giacoren6.github.io/pizza-party-and-pizza-love/index.html)
 
@@ -34,7 +35,9 @@ Welcome! [Pizza Party](https://giacoren6.github.io/pizza-party-and-pizza-love/in
 
   # Meetup Times and Locations section
 
-  - This sectio will allow the user to see exactly when the meetups will happen, where they will be located with time and maps.
+  - This section will allow the user to see exactly when the meetups will happen, where they will be located with time and maps.
+  - This section have 3 maps with 3 different location easly to the user to find it.
+  - This section have the time of opening and closing to the all 3 restoraunts.
     
 <img width="1469" alt="Screenshot 2023-10-10 at 14 27 21" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/d41d39d5-0bb3-4622-9c7c-d148c4f14f24">
 
