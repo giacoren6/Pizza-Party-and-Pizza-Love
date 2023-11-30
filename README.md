@@ -65,6 +65,11 @@ Welcome! [Pizza Party](https://giacoren6.github.io/pizza-party-and-pizza-love/in
 
 - No other feature idea at the moment
 
+ ## Bugs
+  - __Solved Bugs__
+ - All Bugs are Solved.
+ - No bugs find in the deployment.
+
 ## Testing
 
  - I tested that this page works in different browsers: Chrome, and  Safari.
