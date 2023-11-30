@@ -70,6 +70,10 @@ Welcome! [Pizza Party](https://giacoren6.github.io/pizza-party-and-pizza-love/in
  - All Bugs are Solved.
  - No bugs find in the deployment.
 
+ ## Unfixed Bugs
+  
+  - __No Unfixed Bugs__
+
 ## Testing
 
  - I tested that this page works in different browsers: Chrome, and  Safari.
