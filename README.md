@@ -100,8 +100,11 @@ desktop sizes min 992 px
 
 
 ## Deployment
-
-- This site is deployed, 
+ - __The site is Deployed by GitHub Pages the Steps are Follows:__
+  - In The GitHub Repository,Navigate to the settings Tab.
+  - From the source Section drop-down menu, select Master Branch
+  - Once the Master Branch as been selected, The page provided the link to the completed website.
+ 
 Live link here(https://giacoren6.github.io/pizza-party-and-pizza-love/index.html)
 
 ## Credits
