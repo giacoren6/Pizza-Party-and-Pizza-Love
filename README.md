@@ -65,15 +65,7 @@ Welcome! [Pizza Party](https://giacoren6.github.io/pizza-party-and-pizza-love/in
 
 - No other feature idea at the moment
 
- ## Bugs
-  - __Solved Bugs__
- - All Bugs are Solved.
- - No bugs find in the deployment.
-
- ## Unfixed Bugs
-  
-  - __No Unfixed Bugs__
-
+ 
 ## Testing
 
  - I tested that this page works in different browsers: Chrome, and  Safari.
@@ -89,6 +81,11 @@ desktop sizes min 992 px
 
 <img width="717" alt="Screenshot 2023-11-28 at 18 14 43" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/db74fbb4-159e-4095-bf6e-3b185d06e166">
 
+## Bugs
+  - __Solved Bugs__
+ - All Bugs are Solved.
+ - No bugs find in the deployment.
+
 
 ### Validator Testing 
 
@@ -96,6 +93,11 @@ desktop sizes min 992 px
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgiacoren6.github.io%2Fpizza-party-and-pizza-love%2Findex.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiacoren6.github.io%2Fpizza-party-and-pizza-love%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+## Unfixed Bugs
+  
+  - __No Unfixed Bugs__
+
 
 ## Deployment
 
