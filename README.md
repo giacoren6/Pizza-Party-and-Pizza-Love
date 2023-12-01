@@ -8,7 +8,59 @@ Welcome! [Pizza Party](https://giacoren6.github.io/pizza-party-and-pizza-love/in
 
 <img width="1445" alt="Screenshot 2023-10-10 at 13 09 53" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/071916ef-b3b1-4b5b-abb3-3433b2cebf33">
 
+## User Experience (UX)
+
+-   ### User stories
+
+    -   #### First Time Visitor Goals
+
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about Pizza's and Restaurants.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        3. As a First Time Visitor, I want to look for testimonials to understand what Talk about this website and check if is trusted.
+
+    -   #### Returning Visitor Goals
+
+        1. As a Returning Visitor, I want to find Out more about Pizza Training with the chefs.
+        2. As a Returning Visitor, I want to find the best way to get in contact with The Staff and the Restaurants.
+        3. As a Returning Visitor, I want to find community links.
+
+    -   #### Frequent User Goals
+        1. As a Frequent User, I want to check to see if there are New experience to do with the staff and learn more about it .
+        2. As a Frequent User, I want to check to see if there are any new blog and Social posts to be always update .
+        3. As a Frequent User, I want to sign up to the Newsletter to receive any update in any moment.
+     
+    -   ### Design
+    -   #### Colour Scheme
+        -   Are used 3 main colours White,Red and Green, Are easly to understand to the user.
+  
+    -   #### Imagery
+        -   Imagery is important. The large, background Pizza Page is Made to catch the user attention.
+
+*   ### Wireframes
+
+    -   Home Page Wireframe - [View](https://github.com/)
+
+    -   Mobile Wireframe - [View](https://github.com/)
+
+    -   Contact Us Page Wireframe - [View](https://github.com/)
+
+
+
+
+
 # Features
+
+-   Responsive on all device sizes
+
+-   Interactive elements
+
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
 - __Navigation Bar__
 - All three pages are responsive with navigation, the top bar include HOME page, GALLERY and SIGN UP page. 
 - This section is made to let have a easy navigation by the user, page to page and device to device without having to revert back to the previous page via the back button.
