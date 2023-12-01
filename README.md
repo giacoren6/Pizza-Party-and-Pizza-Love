@@ -133,6 +133,30 @@ desktop sizes min 992 px
 
 <img width="717" alt="Screenshot 2023-11-28 at 18 14 43" src="https://github.com/giacoren6/pizza-party-and-pizza-love/assets/142323106/db74fbb4-159e-4095-bf6e-3b185d06e166">
 
+### Testing User Stories from User Experience (UX) Section
+
+-   #### First Time Visitor Goals
+
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and understand what site is it.
+
+        1. The website is easy to understand have in background a pizza image and in nav bar the Home,Gallery and Sign up (to be always uptaded.)
+        2. The main Goal is made from the community.
+        3. The user as three options by Home,Gallery and sign up (in the home page the user can click in the maps to check the locations and check the goal of the restoraunts the time opening and closing),(in the gallery page the user can check the picture of the pizza's and to valutate the product.),(in sign up page the user can sign up to not never lose update).
+
+    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page is.
+        3. At the bottom of the home page there are the social networks to let the user update and with the navigation easly.
+  
+    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
+        2. The user can check the map to see the location in.
+        3. The user can scroll any page and find the social link
+    
+
+
+
+
 ## Bugs
   - __Solved Bugs__
  - All Bugs are Solved.
