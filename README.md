@@ -152,9 +152,39 @@ desktop sizes min 992 px
         1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
         2. The user can check the map to see the location in.
         3. The user can scroll any page and find the social link
+
+        #### Returning Visitor Goals
+
+    1. As a Returning Visitor, I want To do always this pizza experience.
+
+        1. These are clearly shown in Pizza Pizza party,Pizza Love.
+        2. They will be directed to a page with another pizza image.
+
+    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+
+        1. The navigation bar clearly highlights the Sign Up pages.
+        2.Here They can message with the social media for the organization.
+        3. The footer contains links to the organisations Facebook, Twitter and Instagram page.
+        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
+  
+    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
+        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook, Instagram and Twitter Group.
     
 
+  ### Frequent User Goals
 
+    1. As a Frequent  User, I want to check to see if there are Update to some new pizza's.
+
+        1. The user would already be comfortable with the website layout and can easily click The maps for locations and check the Opening and closing time.
+
+    2. As a Frequent User, I want to check to see if there are any new blog posts by social.
+
+        1. The user would already be comfortable with the website layout and can easily click the Social Link.
+
+    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates.
+        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
+        2.In Sign Up pages there is the button subscribe to the website to be always updated.
 
 
 ## Bugs
