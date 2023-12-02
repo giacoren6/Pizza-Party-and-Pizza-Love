@@ -182,10 +182,9 @@ desktop sizes min 992 px
 
         1. The user would already be comfortable with the website layout and can easily click the Social Link.
 
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates.
+    3. As a Frequent User, I want to sign up to the website to be always update.
         1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2.In Sign Up pages there is the button subscribe to the website to be always updated.
-
+        
 
 ## Bugs
   - __Solved Bugs__
